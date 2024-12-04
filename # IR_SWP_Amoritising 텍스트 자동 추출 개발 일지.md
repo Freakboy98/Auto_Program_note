@@ -114,3 +114,22 @@
 
         return None
 '''
+
+### def main() 
+
+```python
+    def main() :
+        data = '''표기 불가'''
+
+        Samsung_IR_SWP_Amortised(data)
+
+        data = '''표기불가'''
+
+        NH_Investment(data)
+        return None
+
+    if __name__ == "__main__" :
+        main()
+
+```
+
